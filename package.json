@@ -1,0 +1,12 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.87.0"
+  },
+  "devDependencies": {
+    "@types/request": "^2.47.1"
+  }
+}
